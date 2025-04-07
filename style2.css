@@ -1,0 +1,53 @@
+
+header {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .fancy-navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  .center-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .Create-btn {
+    padding: 16px 40px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    width: 80%;
+  }
+  
+  .nav-item {
+    font-size: 0.9rem;
+    padding: 8px 14px;
+  }
+  
+  .grid-container {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+  
+  .anime-box {
+    height: auto;
+    padding: 15px;
+    font-size: 1.2rem;
+  }
+  
+  .anime-box p {
+    font-size: 1.3rem;
+  }
+  
+  .footer-links {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .footer-logo {
+    font-size: 1.5rem;
+  }
+  
