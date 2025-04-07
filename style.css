@@ -102,6 +102,10 @@ header {
   transform: scale(1.05);
 }
 
+.mobile-only {
+  display: none;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
